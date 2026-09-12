@@ -8,7 +8,7 @@ This repository publishes the installer only. Source code is not included.
 
 ## Download
 
-Download **[VelocityAutoClicker.Setup.exe](https://github.com/TheWorkstyler/VelocityAutoClicker/releases/latest)** from [Releases](https://github.com/TheWorkstyler/VelocityAutoClicker/releases), or the `VelocityAutoClicker.Setup.exe` file in this repository.
+Download **[VelocityAutoClicker.Setup.exe](https://github.com/TheWorkstyler/VelocityAutoClicker/releases/latest)** from [Releases](https://github.com/TheWorkstyler/VelocityAutoClicker/releases).
 
 ## Install
 

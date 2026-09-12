@@ -8,7 +8,7 @@ Bu depoda yalnızca kurulum dosyası yayınlanır. Kaynak kod paylaşılmaz.
 
 ## İndirme
 
-[Releases](https://github.com/TheWorkstyler/VelocityAutoClicker/releases) sayfasından **[VelocityAutoClicker.Setup.exe](https://github.com/TheWorkstyler/VelocityAutoClicker/releases/latest)** dosyasını indirin. Aynı dosya depo kökünde de bulunur.
+[Releases](https://github.com/TheWorkstyler/VelocityAutoClicker/releases) sayfasından **[VelocityAutoClicker.Setup.exe](https://github.com/TheWorkstyler/VelocityAutoClicker/releases/latest)** dosyasını indirin.
 
 ## Kurulum
 
