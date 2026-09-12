@@ -2,7 +2,7 @@
 
 [Türkçe](README.tr.md)
 
-Windows auto-clicker. Current version: **1.0.3**.
+Windows auto-clicker. Current version: **1.0.4**.
 
 This repository publishes the installer only. Source code is not included.
 
