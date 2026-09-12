@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-Windows otomatik tıklayıcı. Güncel sürüm: **1.0.1**.
+Windows otomatik tıklayıcı. Güncel sürüm: **1.0.2**.
 
 Bu depoda yalnızca kurulum dosyası yayınlanır. Kaynak kod paylaşılmaz.
 
